@@ -1,6 +1,6 @@
 const App = () => (
 	<div>
-		<Person name="sunny" age={8} hobbies={['sing','dance','paint']}/>
+		<Person name="sunnyyyy" age={8} hobbies={['sing','dance','paint']}/>
 	</div>
 );
 
